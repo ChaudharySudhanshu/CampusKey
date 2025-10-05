@@ -136,9 +136,9 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 Samyak Jain
-🔗 LinkedIn - https://www.linkedin.com/in/samyak-jain-470b7b255
+🔗 LinkedIn - https://www.linkedin.com/in/sudhanshu-chaudhary-470578250/
 
-🔗 GitHub - https://github.com/Samyakjain2004
+🔗 GitHub - https://github.com/ChaudharySudhanshu
 
 ## 🤝 Contributing
 Pull requests and suggestions are welcome! For major changes, please open an issue first to discuss.
